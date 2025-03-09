@@ -1,2 +1,2 @@
-# js-code
-javascript practice
+# portfolio website
+marketing portfolio
